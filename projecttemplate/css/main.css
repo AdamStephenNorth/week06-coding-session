@@ -1,0 +1,16 @@
+.wacky {
+  color: red;
+  font-weight: bold;
+}
+
+.boxy {
+  height: 300px;
+  width: 300px;
+  background-color: pink;
+}
+
+#divSnow {
+  height: 300px;
+  width: 300px;
+  background-color: darkblue;
+}
